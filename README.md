@@ -16,7 +16,7 @@ Github将成为我记录成长和知识的主战场，我会从今天开始，�
         * [冒泡排序](https://github.com/anAngryAnt/LearningNotes/tree/master/算法与数据结构/Algorithm/Sort/冒泡排序.md)
         * [快速排序](https://github.com/anAngryAnt/LearningNotes/tree/master/算法与数据结构/Algorithm/Sort/快速排序.md)
         * [归并排序](https://github.com/anAngryAnt/LearningNotes/tree/master/算法与数据结构/Algorithm/Sort/归并排序.md)
-        * [面试中的十大排序算法总结](https://github.com/liuwei1993/Blog/tree/master/算法与数据结构/Algorithm/Sort/%E9%9D%A2%E8%AF%95%E4%B8%AD%E7%9A%84%2010%20%E5%A4%A7%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95%E6%80%BB%E7%BB%93.md)
+        * [十大排序算法总结](https://github.com/liuwei1993/Blog/tree/master/算法与数据结构/Algorithm/Sort/十大排序算法总结.md)
     * 查找
         * [顺序查找](https://github.com/liuwei1993/Blog/tree/master/算法与数据结构/Algorithm/Lookup/顺序查找.md)
         * [折半查找](https://github.com/liuwei1993/Blog/tree/master/算法与数据结构/Algorithm/Lookup/折半查找.md)
@@ -112,13 +112,4 @@ Github将成为我记录成长和知识的主战场，我会从今天开始，�
     * [Git操作](https://github.com/liuwei1993/Blog/tree/master/Android理论知识/Git操作.md)
 
 ## 数学知识
-
-
-##第二部分
-
-
- ---
-
-
-##第三部分
 
