@@ -36,7 +36,7 @@ Github将成为我记录成长和知识的主战场，我会从今天开始，�
 ## Java基础
 
 * [JavaSE基础](https://github.com/liuwei1993/Blog/tree/master/Java基础/JAVA%20SE基础)
-  * [Java基础/JAVA%20SE基础知识](https://github.com/liuwei1993/Blog/blob/master/Java%E5%9F%BA%E7%A1%80/JAVA%20SE%E5%9F%BA%E7%A1%80/Java%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md)
+  * [JAVA SE基础知识](https://github.com/liuwei1993/Blog/blob/master/Java%E5%9F%BA%E7%A1%80/JAVA%20SE%E5%9F%BA%E7%A1%80/Java%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md)
   * [Java中的内存泄漏](https://github.com/liuwei1993/Blog/tree/master/Java基础/JAVA%20SE基础/Java中的内存泄漏.md)
   * [String源码分析](https://github.com/liuwei1993/Blog/tree/master/Java基础/JAVA%20SE基础/String源码分析.md)
   * [Java集合框架](https://github.com/liuwei1993/Blog/tree/master/Java基础/JAVA%20SE基础/Java集合框架.md)
