@@ -34,8 +34,7 @@
 `String a = "abc"`这样的语句进行定义一个引用的时候，首先会在*字符串缓冲池*中查找是否已经相同的对象，如果存在，那么就直接将这个对象的引用返回给a，如果不存在，则需要新建一个值为"abc"的对象，再将新的引用返回a。`String a = new String("abc");`这样的语句明确告诉JVM想要产生一个新的String对象，并且值为"abc"，于是就*在堆内存中的某一个小角落开辟了一个新的String对象*。
 
     - `==`在比较引用的情况下，会去比较两个引用的内存地址是否相等。
-    
-    ```
+```
         String str1 = "abc";
         String str2 = "abc";
         
@@ -46,17 +45,24 @@
         System.out.println(str1 == str2);
         System.out.println(str1.equals(str2));
         
-    ```
+```
     
-        以上代码将会输出
-        true
-        true
-        false
-        true
-        **第一个true：**因为在str2赋值之前，str1的赋值操作就已经在内存中创建了一个值为"abc"的对象了，然后str2将会与str1指向相同的地址。
-        **第二个true：**因为`String`已经重写了`equals`方法：为了方便大家阅读我贴出来，并且在注释用进行分析：
-        
-        ```
+以上代码将会输出
+
+true
+
+true
+
+false
+
+true
+
+**第一个true：** 因为在str2赋值之前，str1的赋值操作就已经在内存中创建了一个值为"abc"的对象了，然后str2将会与str1指向相同的地址。
+
+**第二个true：** 因为`String`已经重写了`equals`方法：为了方便大家阅读我贴出来，并且在注释用进行分析：
+	
+	
+  ```
         public boolean equals(Object anObject) {
         //如果比较的对象与自身内存地址相等的话
         //就说明他两指向的是同一个对象
@@ -86,7 +92,7 @@
         }
         return false;
     }
-        ```
+```
         进行以上分析之后，就不难理解第一段代码中的实例程序输出了。
 
 
