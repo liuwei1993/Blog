@@ -27,9 +27,9 @@
         * [扑克牌的顺子](https://github.com/liuwei1993/Blog/tree/master/算法与数据结构/Algorithm/other/扑克牌的顺子.md)
         * [圆圈中最后剩下的数字](https://github.com/liuwei1993/Blog/tree/master/算法与数据结构/Algorithm/other/圆圈中最后剩下的数字.md)
         * [two-sum](https://github.com/liuwei1993/Blog/tree/master/算法与数据结构/Algorithm/LeetCode/two-sum.md)
-        * [设计一个有getMin功能的栈](https://github.com/liuwei1993/Blog/tree/master/算法与数据结构/Algorithm/程序员代码面试指南(左程云)/1.设计一个有getMin功能的栈.md)
-        * [由两个栈组成的队列](https://github.com/liuwei1993/Blog/tree/master/算法与数据结构/Algorithm/程序员代码面试指南(左程云)/2.由两个栈组成的队列.md)
-        * [如何仅用递归函数和栈操作逆序一个栈](https://github.com/liuwei1993/Blog/tree/master/算法与数据结构/Algorithm/程序员代码面试指南(左程云)/3.如何仅用递归函数和栈操作逆序一个栈.md)
+        * [设计一个有getMin功能的栈](https://github.com/liuwei1993/Blog/tree/master/算法与数据结构/Algorithm/other/设计一个有getMin功能的栈.md)
+        * [由两个栈组成的队列](https://github.com/liuwei1993/Blog/tree/master/算法与数据结构/Algorithm/other/由两个栈组成的队列.md)
+        * [如何仅用递归函数和栈操作逆序一个栈](https://github.com/liuwei1993/Blog/tree/master/算法与数据结构/Algorithm/other/如何仅用递归函数和栈操作逆序一个栈.md)
 
 
 
@@ -106,10 +106,11 @@
     * [Data Binding（数据绑定）用户指南](http://www.jcodecraeer.com/a/anzhuokaifa/developer/2015/0606/3005.html)
     * [RxJava](http://gank.io/post/560e15be2dca930e00da1083)
     * 设计一套图片异步加载缓存方案
-    * Android UI适配
+    * [Android UI适配](https://github.com/liuwei1993/Blog/tree/master/Android理论知识/Android屏幕适配方案.md)
     * [Gradle](http://wuxiaolong.me/categories/Gradle/)
     * [查漏补缺](https://github.com/liuwei1993/Blog/tree/master/Android理论知识/查漏补缺.md)
     * [Git操作](https://github.com/liuwei1993/Blog/tree/master/Android理论知识/Git操作.md)
 
 ## 数学知识
 
+    *后续更新，敬请期待*
